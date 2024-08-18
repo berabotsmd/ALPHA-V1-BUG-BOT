@@ -10,38 +10,38 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "+923308468088"
-global.ownername = "🦄DREAM GUY MR ENHINEER"
-global.ytname = "YT: mrgreyhat404"
-global.socialm = "GitHub: EuF302"
-global.location = "India, Mizoram, Aizawl"
+global.ownernomer = "+254743982206"
+global.ownername = "BRUCE BERA"
+global.ytname = "YT: BERA_TECH"
+global.socialm = "GitHub: berabotsmd"
+global.location = "Kenya, Africa, Nairobi"
 
-global.ownernumber = '923308468088'  //creator number
-global.ownername = '🦄DREAM GUY MR ENHINEER' //owner name
-global.botname = 'ˣᵉᵒⁿ ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '254743982206'  //creator number
+global.ownername = 'BRUCE BERA' //owner name
+global.botname = 'ALPHA-BUG-BOT' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '🦄DGXeon\n\nContact: +923308468088<'
+global.author = 'BERA\n\nContact: +254743982206<'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
+global.wm = "ALPHA-BUG-BOT Inc."
 
 //theme link
-global.link = 'https://chat.whatsapp.com/EMxQEXoCihvFPHiPU9kgIj'
+global.link = 'https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
+global.autoRecording = true //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = false //auto view status/story
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
