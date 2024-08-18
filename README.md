@@ -10,16 +10,13 @@
 ### If you want to deploy somewhere else, upload your creds.json in session folder after getting pair code on replit. 
 
 ### 1. <a href="https://github.com/berabotsmd/ALPHA-V1-BUG-BOT/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork ALPHA-V1-BUG-BOT" width="70"></a>
-### 2. <a href="https://replit.com/@berahiggins/Xeon-PairCode-1"><img src="https://img.shields.io/badge/PAIR_CODE-red" alt="Click Here to Get Pair-Code" width="90"></a>
+### 2. <a href="https://replit.com/@davidcyrilx2005/Xeon-PairCode-1"><img src="https://img.shields.io/badge/PAIR_CODE-red" alt="Click Here to Get Pair-Code" width="90"></a>
 ### 3. <a href="https://pylexnodes.net"><img src="https://img.shields.io/badge/DEPLOY ON PANEL-black" alt="Click Here to Deploy on Panel" width="120"></a>
 ### 4. <a href='https://replit.com/github/berabotsmd/ALPHA-V1-BUG-BOT' target="_blank"><img alt='Deploy On Replit' src='https://img.shields.io/badge/-Deploy On Replit-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
-## Watch Tutorial videos.
-* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/4LuZuByZNwI?si=ZTUB9awhKPD9iIVo)
-
 
 </br>
 
-#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [VENOM-2](https://github.com/DeeCeeXxx/Venom-2) ON ANY TERMINAL
+#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [ALPHA-V1-BUG-BOT](https://github.com/berabotsmd/ALPHA-V1-BUG-BOT) ON ANY TERMINAL
 ```
 sudo apt -y update && sudo apt -y upgrade
 ```
